@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **PHP , Wordpress , Plugins and Theme Development**
 
-- 💬 Ask me about **HTML , CSS , JavaScript**
+- 💬 Ask me about **HTML , CSS , JavaScript , React**
 
 - 📫 How to reach me **ranjan.ritik2024@gmail.com**
 
